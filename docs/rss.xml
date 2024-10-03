@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>博客</title><link>https://hffgg567.github.io</link><description>没有什么好介绍的</description><copyright>博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://hffgg567.github.io</link></image><lastBuildDate>Thu, 03 Oct 2024 10:18:13 +0000</lastBuildDate><managingEditor>博客</managingEditor><ttl>60</ttl><webMaster>博客</webMaster><item><title>搭建自己的博客</title><link>https://hffgg567.github.io/post/da-jian-zi-ji-de-bo-ke.html</link><description>https://github.com/user-attachments/assets/dd1ba3ea-dfc6-4d0f-9d1b-7c59b74abaf2&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>博客</title><link>https://hffgg567.github.io</link><description>没有什么好介绍的</description><copyright>博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://hffgg567.github.io</link></image><lastBuildDate>Thu, 03 Oct 2024 10:19:14 +0000</lastBuildDate><managingEditor>博客</managingEditor><ttl>60</ttl><webMaster>博客</webMaster><item><title>搭建自己的博客</title><link>https://hffgg567.github.io/post/da-jian-zi-ji-de-bo-ke.html</link><description>https://github.com/user-attachments/assets/dd1ba3ea-dfc6-4d0f-9d1b-7c59b74abaf2&#13;
 &#13;
 &#13;
 &#13;
-第一步，打开项目原网站（https://github.com/Meekdai/Gmeek）&#13;
+第一步，打开项目原网站https://github.com/Meekdai/Gmeek&#13;
 第二步，点击“通过模板创建仓库”&#13;
 第三步，在用户名旁边的框里输入username.github.io,(username是你的用户名)&#13;
 第四步，点击右下角的绿框&#13;
