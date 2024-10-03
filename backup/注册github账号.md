@@ -1,4 +1,8 @@
 https://github.com/user-attachments/assets/df8eeaba-616c-4020-acde-fdf8c26f02f2
+
+
+
+
 第一步，打开github官网（https://github.com）
 第二步，点击右上角的“sign up”
 第三步，输入注册好的outlook账号，输入完成后点击右边
